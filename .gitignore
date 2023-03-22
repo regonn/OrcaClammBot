@@ -1,0 +1,5 @@
+node_modules/*
+model/*
+.env
+wallet.json
+candleSticks.json
